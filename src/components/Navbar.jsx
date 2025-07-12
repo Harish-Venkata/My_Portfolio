@@ -47,14 +47,14 @@ export const Navbar = () => {
           >
             <FaGithub size={20} />
           </a>
-          <a
+          {/* <a
             href="https://linkedin.com/in/your-username"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white hover:text-primary transition-colors duration-300"
           >
             <FaLinkedin size={20} />
-          </a>
+          </a> */}
         </div>
 
         {/* Mobile Menu Button */}
