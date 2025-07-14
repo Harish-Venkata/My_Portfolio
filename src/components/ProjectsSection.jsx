@@ -45,7 +45,7 @@ const projects = [
       "This project involves building a single-page website that serves as the digital front door for a restaurant. ",
     image: project3,
     tags: ["HTML5", "Tailwind CSS", "React"],
-    demoUrl: "restaurent-landings-page.netlify.app/ ",
+    demoUrl: "https://restaurent-landings-page.netlify.app/",
     githubUrl: "https://github.com/Harish-Venkata/Restaurent-Landing-Page",
   },
   {
